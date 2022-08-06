@@ -1,5 +1,5 @@
 {
-    "dbURI": "mongodb+srv://autocentreuser:carshowroom@autocentre.25bco.mongodb.net/?retryWrites=true&w=majority",
-    "jwtsecret": "dummySecret",
-    "StripeAPIKey": "sk_test_51LSOUjHLKiAK8VQjqi6Zz8RgaixilmlTpyu4fq6OpK2jFbGwA8pLpszpcA4WALAUHfVlN8XjJpIGjWHbxTuSZfUh00AovusJKw"
+    "dbURI": "YOUR_SECRET_KEY",
+    "jwtsecret": "YOUR_SECRET_KEY",
+    "StripeAPIKey": "YOUR_SECRET_KEY"
 }
